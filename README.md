@@ -60,6 +60,12 @@ Multi-group TCP chat server. Goroutine-per-client concurrency, channel-based mes
 
 ---
 
+## LeetCode
+
+[![LeetCode](https://leetcard.jacoblin.cool/RoomiestT?theme=light&font=source_code_pro&hide_border=true&ext=heatmap)](https://leetcode.com/u/RoomiestT/)
+
+---
+
 ## Languages & Tools
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
